@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "394182601758",
+    "firebase_url": "https://clevercoin-b128f.firebaseio.com",
+    "project_id": "clevercoin-b128f",
+    "storage_bucket": "clevercoin-b128f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394182601758:android:4c7ab048035b5b58",
+        "android_client_info": {
+          "package_name": "org.alkaaf.clevercoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394182601758-uvkvga5qj2m3g8evm72smi518m1kmddq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.alkaaf.clevercoin",
+            "certificate_hash": "a71d7a68df6bb7a6a7c64cc47f2afe0241e1799d"
+          }
+        },
+        {
+          "client_id": "394182601758-3c5fmrfoqu40qj8pe64jljdlh6a14g13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAqlJ1YzuT7PSwTW-F7f5qyT_ydQqXAkI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394182601758-3c5fmrfoqu40qj8pe64jljdlh6a14g13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
